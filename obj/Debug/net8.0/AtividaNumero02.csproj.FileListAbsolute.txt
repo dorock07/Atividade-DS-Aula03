@@ -1,0 +1,14 @@
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\bin\Debug\net8.0\AtividaNumero02.exe
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\bin\Debug\net8.0\AtividaNumero02.deps.json
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\bin\Debug\net8.0\AtividaNumero02.runtimeconfig.json
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\bin\Debug\net8.0\AtividaNumero02.dll
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\bin\Debug\net8.0\AtividaNumero02.pdb
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\obj\Debug\net8.0\AtividaNumero02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\obj\Debug\net8.0\AtividaNumero02.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\obj\Debug\net8.0\AtividaNumero02.AssemblyInfo.cs
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\obj\Debug\net8.0\AtividaNumero02.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\obj\Debug\net8.0\AtividaNumero02.dll
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\obj\Debug\net8.0\refint\AtividaNumero02.dll
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\obj\Debug\net8.0\AtividaNumero02.pdb
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\obj\Debug\net8.0\AtividaNumero02.genruntimeconfig.cache
+C:\Users\dell\Desktop\Mauro\Trabalhos etec\Segundo Modulo\DS\AtividaNumero02\obj\Debug\net8.0\ref\AtividaNumero02.dll
